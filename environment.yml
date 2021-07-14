@@ -1,0 +1,14 @@
+name: python_data_train
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - netcdf4
+  - pandas
+  - scipy
+  - requests
+  - matplotlib
+  - bokeh
+  - xarray
+  - requests
+  - dask
