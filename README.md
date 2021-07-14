@@ -1,5 +1,6 @@
 Getting started with Python
 ===========================
+![Alt text](images/UBRA_Logo_DATA_TRAIN.png?raw=true "Title")
 
 This is [Data Train](https://www.uni-bremen.de/research-alliance/forschungsdaten/data-train) course [OT-ST-WS-04](https://www.uni-bremen.de/research-alliance/forschungsdaten/data-train/data-train-curriculum/data-steward-track/ot-st-ws-04-getting-started-with-python)
 
