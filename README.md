@@ -5,7 +5,7 @@ Getting started with Python
 This is [Data Train](https://www.uni-bremen.de/research-alliance/forschungsdaten/data-train) course [OT-ST-WS-04](https://www.uni-bremen.de/research-alliance/forschungsdaten/data-train/data-train-curriculum/data-steward-track/ot-st-ws-04-getting-started-with-python)
 
 
-You can run this notebooks interactevely on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/koldunovn/python_for_geosciences/master)
+You can run notebooks interactevely on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/koldunovn/python_data_train/main)
  
 This is a short overview of how Python with examples of data analysis and visualization. 
 
