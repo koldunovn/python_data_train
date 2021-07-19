@@ -11,4 +11,4 @@ dependencies:
   - bokeh
   - xarray
   - requests
-  - dask
+
